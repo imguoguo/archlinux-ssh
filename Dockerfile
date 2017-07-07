@@ -10,4 +10,3 @@ EXPOSE 22
 
 VOLUME ["/root", "/home"]
 ENTRYPOINT ["/usr/bin/sshd", "-D"]
-
