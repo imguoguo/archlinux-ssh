@@ -24,7 +24,7 @@ docker run -d -p 2220:22 u2fsdgvkx1/archlinux-ssh
 ssh root@{docker ip} -p 2220
 ```
 
-**Warning: The default password is empty. Please manually modify it.**
+**Warning: The default password is empty. Please modify it.**
 
 # About
 
