@@ -1,4 +1,4 @@
-FROM pritunl/archlinux
+FROM archimg/base:full
 MAINTAINER U2FsdGVkX1 <U2FsdGVkX1@gmail.com>
 
 RUN pacman -Syy
