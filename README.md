@@ -25,7 +25,3 @@ ssh root@{docker ip} -p 2220
 ```
 
 **Warning: The default password is empty. Please modify it.**
-
-# About
-
-This project uses [pritunl/archlinux](https://hub.docker.com/r/pritunl/archlinux/).
